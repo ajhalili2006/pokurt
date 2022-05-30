@@ -54,7 +54,7 @@
 
 
 ##  🎶 **Currently Playing**
-[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/21dlpp4ul43o6wj7x7pdmzzeq)
+[![Spotify](https://novatorem-pokurt.vercel.app/api/spotify)](https://open.spotify.com/user/21dlpp4ul43o6wj7x7pdmzzeq)
 
 
 ##  🐙 **Github Stats**
